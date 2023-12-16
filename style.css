@@ -209,3 +209,13 @@ body{
     transform: translateX(10px);
 }
 
+footer {
+    position: fixed;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    text-align: center;
+    width: 100%;
+    background-color: #f0f0f059; 
+    padding: 10px; 
+  }
